@@ -1,0 +1,18 @@
+.about {
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .about h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .about p {
+    color: #666;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+  }
+  
